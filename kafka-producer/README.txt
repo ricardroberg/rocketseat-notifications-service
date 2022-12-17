@@ -1,0 +1,1 @@
+this folder should be in parallel, not inside NOTIFICATION-SERVICE applications
